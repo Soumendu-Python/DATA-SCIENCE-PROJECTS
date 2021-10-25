@@ -4,4 +4,4 @@ This project of Web Scraping done in Flipkart Website for extracting Laptops dat
 
 Here, the web scraping is done with the help of python codes. Necessary data is extracted into separate columns using html script of the web page.
 
-Also 2 csv files have been uploaded one being the raw data or messy data scraped from the website and the other being cleaned data obtained after removing useless spaces and characters.
+Also 2 excel files have been uploaded one being the raw data or messy data scraped from the website and the other being cleaned data obtained after removing useless spaces and characters.
