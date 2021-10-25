@@ -9,6 +9,6 @@ In addition, Time Series projects are also included. These projects have been do
 
 Deep Learning methods include Artificial Neural Network, Convolution Neural Network, Recurrent Neural Network, LSTM etc.
 
-Advanced Projects such as Image Recignition, Face Recognition etc. are also in this repository.
+Advanced Projects such as Image Recognition, Face Recognition etc. are also in this repository.
 
 Projects using Natural Language Processing to express the sentiments of reviews, forecasting the words from incomplete search are also included here.
