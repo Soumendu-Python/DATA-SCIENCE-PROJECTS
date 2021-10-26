@@ -1,3 +1,4 @@
+# WEB SCRAPING LAPTOPS DATA FROM FLIPKART
 Web Scraping is an important aspect in Data Science as there can be number of instances where we would need the data from a public website for analyzing or making predictions.
 
 This project of Web Scraping done in Flipkart Website for extracting Laptops data on its first recommendation page.
