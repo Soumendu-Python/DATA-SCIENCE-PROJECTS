@@ -1,4 +1,4 @@
-##IMAGE RECOGNITION USING CNN##
+# IMAGE RECOGNITION USING CNN
 This project is based on Image Recognition through Convolution Neural Network technique.
 
 There are images belonging to 6 categories in the dataset namely Buildings, Forest, Glacier, Mountain, Sea and Street.
