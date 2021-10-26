@@ -1,3 +1,4 @@
+# SOCIAL MEDIA ADCLICK PREDICTION
 This project predicts whether a person will click on the Advertisement appearing on Social Media apps or not
 
 This project is the most basic machine learning project in building classification models. The target variable has 2 categories 0 and 1 where 0 means not clicke on the ad and 1 means has clicked on the ad.
