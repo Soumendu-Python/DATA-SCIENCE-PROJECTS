@@ -1,3 +1,4 @@
+# OCEAN TEMPERATURE PREDICTION
 This repository contains prediction of Ocean Temperature using Salinity of Ocean Water with Multiple Regression Models
 
 The dataset contains many factors recorded from bottles found in the ocean procured by CalCOFI i.e. California Cooperative Oceanic Fisheries Investigations, but the main purpose of this dataset is to predict Temperature of ocean water using only its Salinity.
