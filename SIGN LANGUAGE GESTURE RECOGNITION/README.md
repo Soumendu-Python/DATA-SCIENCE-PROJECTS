@@ -10,3 +10,6 @@ A graphical user interface authorizing the initialization of the application is 
 Almost 12000 train images and 8000 validation images were collected and categorized so as to train the model efficiently adapting to different ways of showing up hands using Video Capture in OpenCV library.
 A model was built and the images were fed into the model and trained.
 At the end, when the hand is shown depicting a particular sign or symbol in front of the webcam, the system will predict as to what the user is trying to convey in real time.
+
+The dataset is large hence it can be found in the given link
+https://drive.google.com/file/d/1luAOylVGpEwACVU_yTHWIDL7-uTq4B8x/view?usp=sharing
