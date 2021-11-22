@@ -51,7 +51,7 @@ The test data contains only the employee ids. Thus, for taking the performance a
 # Other Submission made
 One of the other submissions made has also been uploaded here in this folder. The final machine learning model selected here was Ada-Boost Classifier model.
 
-In this, categorical variables are directly Label Encoded. Also the data imbalance has been maintained due to inherent weight updation properties of Ada-Boost Classifier model of updating the weak learners after every iteration.
+In this, categorical variables are directly Label Encoded. Also the data imbalance has been maintained due to inherent weight updation properties of Ada-Boost Classifier model of updating the weights of weak learners after every iteration.
 
 The final data has been trained using the AdaboostClassifier() which gave me a local accuracy of 0.80, public leaderboard score of 0.7126 and private leaderboard score of 0.7508.
 
