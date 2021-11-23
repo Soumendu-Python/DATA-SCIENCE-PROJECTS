@@ -1,7 +1,7 @@
 # ACADEMIC-PROJECTS
 The projects uploaded in this repository are those that have been done by me while the ongoing course of Post Graduate Program in Data Analytics at Imarticus Learning.
 
-These projects vary from basic Data Exploration to various Machine Learning methods to Deep Learning methods.
+These projects vary from basic Data Exploration to various Machine Learning methods to Deep Learning methods implemented in real time.
 
 Machine Learning methods comprise of Supervised Learning methods such as Linear Regression, Logistic Regression, Support Vector Machines, Random Forest Classifier etc. Unsupervised Learning methods are also used like K-Means Clustering.
 
