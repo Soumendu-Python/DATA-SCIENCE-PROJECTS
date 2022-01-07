@@ -11,4 +11,4 @@ Deep Learning methods include Artificial Neural Network, Convolution Neural Netw
 
 Advanced Projects such as Image Recognition, Face Recognition etc. are also in this repository.
 
-Projects using Natural Language Processing to express the sentiments of reviews, forecasting the words from incomplete search are also included here.
+Projects using Natural Language Processing to express the sentiments of reviews are also included here.
